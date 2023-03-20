@@ -20,8 +20,8 @@ Database Tables:
 
 Features:
 •	Admin Employees
-o	Access to CRUD operations over all the Employees data
-o	Access to CRD operations over all the Employee Posts
+  o	Access to CRUD operations over all the Employees data
+  o	Access to CRD operations over all the Employee Posts
 
 •	Regular Employees
   o	Access to R operation over all the Employees data
